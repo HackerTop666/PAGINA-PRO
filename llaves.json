@@ -1,0 +1,18 @@
+[
+  {
+    "clave": "123ABC",
+    "usada": false
+  },
+  {
+    "clave": "456DEF",
+    "usada": false
+  },
+  {
+    "clave": "789GHI",
+    "usada": false
+  },
+  {
+    "clave": "ABC123",
+    "usada": false
+  }
+]
